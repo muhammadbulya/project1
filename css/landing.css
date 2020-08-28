@@ -1,0 +1,36 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background : #343838;
+}
+
+.wall{
+	background-image: url(../image/0.jpg);
+	height: 500px;
+}
+header{
+	background: #d6ecfa;
+}
+
+.motto{
+	color: white;
+	padding-top: 7.5em;
+	align:center;
+
+}
+.slogan{
+	padding-top: 3em;
+	padding-bottom: 3em;
+	color: white;
+}
+.slogan p{
+	font-size: 16px;
+}
+.kanan{
+	text-align: center;
+}
+.slogan span{
+	font-size: 50px;
+}
